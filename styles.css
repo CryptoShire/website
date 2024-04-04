@@ -76,7 +76,8 @@ p {
   background: none;
   border: none;
   color: inherit;
-  position: fixed;
+  position: absolute;
+  padding-bottom: 80px; 
   top: 92%;
   right: 15px;
   transform: translateY(-50%);

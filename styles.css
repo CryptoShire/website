@@ -158,10 +158,10 @@ p {
 }
 */
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 500px) {
   /* Increase the font size of text */
   .main-text {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   /* Increase the size of the logo */
@@ -171,12 +171,12 @@ p {
   }
 
   /* Increase the size of the footer */
-  footer {
-    font-size: large;
+  .copyright {
+    font-size: medium;
   }
 
   .myBtn {
-      font-size: large;
+      font-size: medium;
   }
 }
 

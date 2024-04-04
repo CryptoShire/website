@@ -172,7 +172,11 @@ p {
 
   /* Increase the size of the footer */
   footer {
-    font-size: 18px;
+    font-size: large;
+  }
+
+  .myBtn {
+      font-size: large;
   }
 }
 

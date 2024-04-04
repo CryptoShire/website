@@ -160,7 +160,7 @@ p {
 @media only screen and (max-width: 767px) {
   /* Increase the font size of text */
   .main-text {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   /* Increase the size of the logo */
@@ -171,7 +171,7 @@ p {
 
   /* Increase the size of the footer */
   footer {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 

@@ -169,14 +169,5 @@ p {
     width: 200px;
     height: auto;
   }
-
-  /* Increase the size of the footer */
-  .copyright {
-    font-size: medium;
-  }
-
-  .myBtn {
-      font-size: medium;
-  }
 }
 

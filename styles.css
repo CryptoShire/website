@@ -145,16 +145,33 @@ p {
   font-size: x-small;
 }
 
+/*
 @media (max-width: 550px) {
   .main-text {
-    font-size: 18px;
-    /* grid-column: 2 / 7; */
+    font-size: 20px;
     text-align: right;
     margin-right: -10px;
     margin-left: 20px;
     padding: 10px;
   }
 }
+*/
 
+@media only screen and (max-width: 767px) {
+  /* Increase the font size of text */
+  .main-text {
+    font-size: 18px;
+  }
 
+  /* Increase the size of the logo */
+  .logo {
+    width: 200px;
+    height: auto;
+  }
+
+  /* Increase the size of the footer */
+  footer {
+    font-size: 16px;
+  }
+}
 

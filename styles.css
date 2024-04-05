@@ -154,6 +154,7 @@ p {
 
   .myBtn {
     font-size: small;
+    right: -5px;
   }
 
   .copyright {
@@ -163,11 +164,12 @@ p {
 
 @media only screen and (orientation: landscape) {
   .main-text {
-    font-size: 16px;
+    font-size: 12px;
   }
 
   .myBtn {
     font-size: small;
+    right: -5px;
   }
 
   .copyright {

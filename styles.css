@@ -151,7 +151,12 @@ p {
     font-size: 16px;
   }
 
-  .myBtn, .copyright {
+  .myBtn {
+    font-size: small;
+    right:-15px;
+  }
+
+  .copyright {
     font-size: small;
   }
 }
@@ -161,7 +166,12 @@ p {
     font-size: 16px;
   }
 
-  .myBtn, .copyright {
+  .myBtn {
+    font-size: small;
+    right:-15px;
+  }
+
+  .copyright {
     font-size: small;
   }
 }

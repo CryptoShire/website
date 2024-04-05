@@ -146,4 +146,10 @@ p {
   font-size: x-small;
 }
 
+@media screen and (max-width: 800px) {
+  .main-text {
+    font-size: 18px;
+  }
+}
+
 

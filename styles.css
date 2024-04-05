@@ -154,7 +154,7 @@ p {
 
   .myBtn {
     font-size: small;
-    right: -5px;
+    padding-right: 0px;
   }
 
   .copyright {
@@ -169,7 +169,7 @@ p {
 
   .myBtn {
     font-size: small;
-    right: -5px;
+    padding-right: 0px;
   }
 
   .copyright {

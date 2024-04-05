@@ -146,9 +146,13 @@ p {
   font-size: x-small;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
   .main-text {
-    font-size: 16px;
+    font-size: 18px;
+  }
+
+  .myBtn, .copyright {
+    font-size: small;
   }
 }
 

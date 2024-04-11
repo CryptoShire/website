@@ -76,7 +76,7 @@ p {
   background: none;
   border: none;
   color: inherit;
-  position: absolute;
+  position: fixed;
   padding-bottom: 80px; 
   top: 92%;
   right: 0;

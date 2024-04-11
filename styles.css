@@ -163,4 +163,9 @@ p {
   .copyright {
     font-size: small;
   }
+   body {
+    background-attachment: scroll;
+    background-position: left top;
+    overflow-x: scroll;
+  }
 }

@@ -76,13 +76,15 @@ p {
   background: none;
   border: none;
   color: inherit;
-  position: fixed;
-  top: 92%;
+  position: absolute;
   right: 0;
+  top: 92%;
   margin-right: 20px;
   padding-right: 0px;
+  padding-bottom: 80px;
   transform: translateY(-50%);
 }
+
 
 .copyright p {
   font-size: x-small;

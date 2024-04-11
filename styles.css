@@ -164,8 +164,8 @@ p {
     font-size: small;
   }
    body {
+    background-size: contain;
     background-attachment: scroll;
-    background-position: left top;
-    overflow-x: scroll;
+    overflow: auto;
   }
 }

@@ -162,19 +162,3 @@ p {
   }
 }
 
-@media only screen and (orientation: landscape) {
-  .main-text {
-    font-size: 12px;
-  }
-
-  .myBtn {
-    font-size: small;
-    padding-right: 0px;
-  }
-
-  .copyright {
-    font-size: small;
-  }
-}
-
-

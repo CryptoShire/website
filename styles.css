@@ -164,7 +164,7 @@ p {
     font-size: small;
   }
    body {
-    background-size: contain;
+    background-size: cover;
     background-attachment: scroll;
     overflow: auto;
   }
